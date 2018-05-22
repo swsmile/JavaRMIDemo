@@ -1,8 +1,10 @@
-A simple demo shows the usage of server-client-based Java RMI.
+#### A simple demo shows the usage of server-client-based Java RMI.
+
+---
 
 
 
-Usage:
+# Usage:
 
 1. Run RMIserver.java in IntelliJ.
 2. Run RMIClient.javain IntelliJ.
