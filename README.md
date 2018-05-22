@@ -8,7 +8,7 @@
 
 1. Run RMIserver.java in IntelliJ.
 
-2. Run RMIClient.javain IntelliJ.
+2. Run RMIClient.javain in IntelliJ.
 
    The client code will lookup a server by a identical server URL and then obtain an instance of object instantiated in server JVM.
    
